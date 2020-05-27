@@ -1,13 +1,13 @@
-The VBA of Wall Street
+## The VBA of Wall Street
 
 Analysis of Stocks based on their opening day and clasing days for each year.  
 VBA scripting to analyze real stock market data will be used in this activity
 
-Getting Started
+## Getting Started
 
 Clone the project and use with the raw data.
 
-Objectives
+## Objectives
 
 Create a script that will loop through one year of stock data for each run and return the total 
 volume each stock had over that year. Display the ticker symbol to coincide with the total stock volume.  The script will return 
@@ -16,14 +16,14 @@ the data to display the stock with the largest volume, greates increase and grea
 
 The screenshots display analysis for each year of the stock data.
 
-Limitations
+## Limitations
 
 Certain Stocks did not have data for openeing day. They have been ignored and the percent change has been listed to 0 for them.
 
-Prerequisites
+## Prerequisites
 
 MS Excel VBA
 
-Authors
+## Authors
 
 Suleyman Incekara
