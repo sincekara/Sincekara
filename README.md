@@ -24,6 +24,6 @@ Certain Stocks did not have data for openeing day. They have been ignored and th
 
 MS Excel VBA
 
-## Authors
+## Author
 
 Suleyman Incekara
